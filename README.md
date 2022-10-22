@@ -5,6 +5,14 @@
 * Functionality to check if users are typing and current online users.
 * Tools used JavaScript, NodeJs, Web Sockets, HTML, CSS.
 
+## About the Project
+
+
+
+
+## Tech stack Used
+
+
 ## How to use Project
 - Download or clone the repository Website : 
 ```
