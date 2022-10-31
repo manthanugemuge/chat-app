@@ -21,7 +21,8 @@ A web based chat application where people can connect with each other.
 https://github.com/manthanugemuge/chat-app.git
 ```
 
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/manthanugemuge/chat-app/archive/refs/heads/main.zip) 
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/manthanugemuge/chat-app/archive/refs/heads/main.zip)
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://chat-app-lpu.herokuapp.com/)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
