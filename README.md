@@ -1,7 +1,6 @@
 # Chat App
 
-A web based chat application where people can connect with each other.
-
+A Web based Chat Application where people can connect with each other.
 
 ## About the Project
 * Users can create Unique rooms and share it people to have private conversations.
